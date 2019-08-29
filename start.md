@@ -4,7 +4,7 @@
 
 ```bash
 # 初始化操作，安装依赖
-$ nbnpm install
+$ npm install
 
 # 启动dev server
 $ npm run dev

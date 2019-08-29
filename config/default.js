@@ -30,6 +30,13 @@ module.exports = {
           {text: 'YAML教程', link: '/docs/related/yaml'},
           {text: 'BEM规范', link: '/docs/related/bem'}
         ]
+      },
+      {
+        text: '代码review', 
+        items: [
+          {text: '概览', link: '/docs/review/overview'},
+          {text: '笔试管理', link: '/docs/review/exam'}
+        ]
       }
     ],
     sidebar: [
@@ -39,7 +46,7 @@ module.exports = {
       review.sidebar
     ],
     sidebarDepth: 0,
-    repo: 'https://github.com/flowSu',
+    repo: 'https://github.com/flowSu/wiki',
     editLinks: true
   },
   style: {
