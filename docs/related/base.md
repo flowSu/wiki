@@ -164,6 +164,14 @@ This is a dangerous warning, and the anchors will come here
 ![这是一张图片](https://fac-assets.newbanker.cn/3b41ec96-31ca-4e71-9941-1fd892d382fa)
 ```
 
+* 图片居中
+
+```bash
+<div align="center">
+  <img src="https://fac-assets.newbanker.cn/3b41ec96-31ca-4e71-9941-1fd892d382fa" width="100" height="100">
+</div>
+```
+
 * 链接
 ```bash
 [百度一下，你就知道](https://www.baidu.com)
